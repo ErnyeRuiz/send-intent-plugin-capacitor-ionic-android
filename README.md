@@ -1,6 +1,6 @@
 # capacitor-intent-communication-plugin
 
-plugin test coopedota
+android intent plugin for capacitor 6.1
 
 ## Install
 
