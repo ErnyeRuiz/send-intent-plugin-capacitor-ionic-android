@@ -1,6 +1,6 @@
 # capacitor-intent-communication-plugin
 
-android intent plugin for capacitor 6.1
+android send intent plugin for capacitor 6.1
 
 ## Install
 
